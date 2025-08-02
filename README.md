@@ -16,21 +16,12 @@ Currently, I specialize in **data extraction pipelines** for business intelligen
 ### 🧰 Tech Stack
 
 - **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  [Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
+  [TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+  [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Frontend**:  
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-- **Scraping & Crawling Tools**:  
-  `pycurl`, `aiohttp`, `BeautifulSoup`, `Selenium`, `Playwright`
-
-- **Automation & APIs**:  
-  `FastAPI`, `FormData`, `Proxies`, `Requests`, `Pandas`
-
-- **Tools & DevOps**:  
-  `Git`, `Docker`, `Linux`, `CI/CD`, `Postman`, `Insomnia`
 
 ---
 
