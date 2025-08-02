@@ -19,7 +19,6 @@
 - Experienced in **Python**, **TypeScript/JavaScript**, and **React**  
 - Skilled in **GCP infrastructure** (Cloud Run Jobs, Cloud Storage, BigQuery, VMs)  
 - CI/CD pipelines with **GitHub Actions** for automated deployments  
-- Studied at **Kenzie Academy Brasil**  
 - Currently pursuing a **Bachelor's degree in Computer Science** at **Cruzeiro do Sul Virtual**
 
 ---
