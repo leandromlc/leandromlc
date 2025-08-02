@@ -41,7 +41,7 @@
 
 - **Parallel Scraper Job** – Python crawler containerized and executed as a Cloud Run Job with parallel task distribution and proxy management  
 - **CI/CD Pipelines** – helped create automated CI/CD workflows using GitHub Actions, securely storing sensitive values in environments for enhanced security  
-- **Scraping Systems** – developed scrapers with re-tracking in Cloud Storage buckets and microservices architecture using Cloud Run  
+- **Scraping Systems** – developed scrapers with re-tracking in Cloud Storage buckets and microservices architecture
 - **Proxy Monitor** – built a proxy monitoring tool to query proxy pools and ensure availability  
 
 ---
