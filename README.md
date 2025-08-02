@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Leandro Cabral</h1>
+  <h1>👋 Hi, I'm Leandro</h1>
   <p>Software Engineer | Web Scraping • Automation • GCP Cloud Run • CI/CD</p>
   <p>
     <a href="https://www.linkedin.com/in/leandromlc">
