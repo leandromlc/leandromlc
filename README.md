@@ -32,7 +32,7 @@
 | **Frontend**         | React                                                                               |
 | **Scraping Tools**   | BeautifulSoup • aiohttp • Selenium • Playwright                                     |
 | **Backend / API**    | FastAPI • Requests • Pandas • Proxy rotation                                        |
-| **Cloud / Infra**    | Cloud Run Jobs • Cloud Storage • BigQuery • Compute Engine VMs            |
+| **Cloud / Infra**    | Cloud Run Jobs • Cloud Storage • BigQuery • Compute Engine VMs                      |
 | **CI/CD & DevOps**   | GitHub Actions • Docker • Linux • Git • CI/CD pipelines                             |
 
 ---
