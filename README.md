@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Leandro</h1>
-  <p>Software Engineer | Web Scraping • Automation • GCP Cloud Run • CI/CD</p>
+  <p>Web Scraping • Automation • GCP Cloud Run • CI/CD</p>
   <p>
     <a href="https://www.linkedin.com/in/leandromlc">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
