@@ -26,14 +26,14 @@
 
 ## 🛠️ Tech Stack & Cloud Tools
 
-| Area                | Technologies & Tools                                                                 |
-|---------------------|--------------------------------------------------------------------------------------|
-| **Languages**        | Python • TypeScript • JavaScript                                                     |
-| **Frontend**         | React                                                                                |
+| Area                 | Technologies & Tools                                                                |
+|----------------------|-------------------------------------------------------------------------------------|
+| **Languages**        | Python • TypeScript • JavaScript                                                    |
+| **Frontend**         | React                                                                               |
 | **Scraping Tools**   | BeautifulSoup • aiohttp • Selenium • Playwright                                     |
-| **Backend / API**    | FastAPI • Requests • Pandas • Proxy rotation                                         |
-| **Cloud / Infra**    | Cloud Run Jobs • Cloud Storage (Buckets) • BigQuery • Compute Engine VMs             |
-| **CI/CD & DevOps**   | GitHub Actions • Docker • Linux • Git • CI/CD pipelines • Workload Identity Federation |
+| **Backend / API**    | FastAPI • Requests • Pandas • Proxy rotation                                        |
+| **Cloud / Infra**    | Cloud Run Jobs • Cloud Storage (Buckets) • BigQuery • Compute Engine VMs            |
+| **CI/CD & DevOps**   | GitHub Actions • Docker • Linux • Git • CI/CD pipelines                             |
 
 ---
 
