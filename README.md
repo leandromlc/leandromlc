@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 
-![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=leandromlc&show_icons=true&theme=transparent&include_all_commits=true&hide=stars,issues,contribs&rank_icon=github)
+![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=leandromlc&show_icons=true&theme=transparent&include_all_commits=true&hide=stars,issues,contribs&rank_icon=github&show=prs_merged,prs_merged_percentage)
 
 ---
 
