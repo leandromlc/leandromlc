@@ -29,7 +29,7 @@
 |----------------------|-------------------------------------------------------------------------------------|
 | **Languages**        | Python • TypeScript • JavaScript                                                    |
 | **Frontend**         | React                                                                               |
-| **Scraping Tools**   | BeautifulSoup • Aiohttp • Selenium • Playwright                                     |
+| **Scraping Tools**   | BeautifulSoup • Curl_Cffi • Rnet • Camoufox                                         |
 | **Backend / API**    | FastAPI • Requests • Pandas • Proxy rotation                                        |
 | **Cloud / Infra**    | Cloud Run Jobs • Cloud Storage • BigQuery • Compute Engine VMs                      |
 | **CI/CD & DevOps**   | GitHub Actions • Docker • Linux • Git • CI/CD pipelines                             |
