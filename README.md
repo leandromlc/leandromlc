@@ -81,10 +81,4 @@ I also have experience with **CI/CD pipelines** using **GitHub Actions** to auto
 
 <br>
 
----
 
-<br>
-
-<div align="center">
-  <p>“Automating what’s repetitive gives more room for creativity.”</p>
-</div>
