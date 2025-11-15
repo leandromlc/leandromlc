@@ -12,19 +12,17 @@
   </p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="10">
 
-## 🚀 About Me
+## ✨ About Me
 
-With over two years of experience in technology, I have focused on creating scalable automation systems, efficient web scrapers, and APIs. My journey has been marked by building robust solutions that perform well in dynamic, high-demand environments.
+<p>With over two years of experience in technology, I have focused on creating scalable automation systems, efficient web scrapers, and APIs. My journey has been marked by building robust solutions that perform well in dynamic, high-demand environments.</p>
 
-I primarily use **Python** for complex automations and **TypeScript/JavaScript** with **React** for the frontend. I have significant experience with the **Google Cloud Platform (GCP)** infrastructure, using services like Cloud Run Jobs, Cloud Storage, BigQuery, and VMs.
+<p>I primarily use <b>Python</b> for complex automations and <b>TypeScript/JavaScript</b> with <b>React</b> for the frontend. I have significant experience with the <b>Google Cloud Platform (GCP)</b> infrastructure, using services like Cloud Run Jobs, Cloud Storage, BigQuery, and VMs.</p>
 
-I also have experience with **CI/CD pipelines** using **GitHub Actions** to automate deployments securely. Currently, I am pursuing a **Bachelor's degree in Computer Science** at Cruzeiro do Sul Virtual to continue learning.
+<p>I also have experience with <b>CI/CD pipelines</b> using <b>GitHub Actions</b> to automate deployments securely. Currently, I am pursuing a <b>Bachelor's degree in Computer Science</b> at Cruzeiro do Sul Virtual to continue learning.</p>
 
-<br>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="10">
 
 ## 🛠️ Tech Stack & Cloud Tools
 
@@ -34,7 +32,11 @@ I also have experience with **CI/CD pipelines** using **GitHub Actions** to auto
       <br><strong>💻 Languages</strong><br><br>
     </td>
     <td width="70%" valign="top">
-      <br><code>Python</code> • <code>TypeScript</code> • <code>JavaScript</code><br><br>
+      <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -42,7 +44,9 @@ I also have experience with **CI/CD pipelines** using **GitHub Actions** to auto
       <br><strong>🎨 Frontend</strong><br><br>
     </td>
     <td valign="top">
-      <br><code>React</code><br><br>
+      <br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -50,7 +54,12 @@ I also have experience with **CI/CD pipelines** using **GitHub Actions** to auto
       <br><strong>🕷️ Scraping Tools</strong><br><br>
     </td>
     <td valign="top">
-      <br><code>BeautifulSoup</code> • <code>Curl_Cffi</code> • <code>Rnet</code> • <code>Camoufox</code><br><br>
+      <br>
+      <img src="https://img.shields.io/badge/BeautifulSoup-5A6978?style=for-the-badge" alt="BeautifulSoup"/>
+      <img src="https://img.shields.io/badge/Curl_Cffi-5A6978?style=for-the-badge" alt="Curl_Cffi"/>
+      <img src="https://img.shields.io/badge/Rnet-5A6978?style=for-the-badge" alt="Rnet"/>
+      <img src="https://img.shields.io/badge/Camoufox-5A6978?style=for-the-badge" alt="Camoufox"/>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -58,7 +67,12 @@ I also have experience with **CI/CD pipelines** using **GitHub Actions** to auto
       <br><strong>⚙️ Backend / API</strong><br><br>
     </td>
     <td valign="top">
-      <br><code>FastAPI</code> • <code>Requests</code> • <code>Pandas</code> • <code>Proxy rotation</code><br><br>
+      <br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Requests-5A6978?style=for-the-badge" alt="Requests"/>
+      <img src="https://img.shields.io/badge/Proxy_Rotation-5A6978?style=for-the-badge" alt="Proxy Rotation"/>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -66,7 +80,12 @@ I also have experience with **CI/CD pipelines** using **GitHub Actions** to auto
       <br><strong>☁️ Cloud / Infra</strong><br><br>
     </td>
     <td valign="top">
-      <br><code>Cloud Run Jobs</code> • <code>Cloud Storage</code> • <code>BigQuery</code> • <code>Compute Engine</code><br><br>
+      <br>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+      <img src="https://img.shields.io/badge/Cloud_Run-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Run"/>
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=bigquery&logoColor=white" alt="BigQuery"/>
+      <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Storage"/>
+      <br><br>
     </td>
   </tr>
   <tr>
@@ -74,11 +93,18 @@ I also have experience with **CI/CD pipelines** using **GitHub Actions** to auto
       <br><strong>🚀 CI/CD & DevOps</strong><br><br>
     </td>
     <td valign="top">
-      <br><code>GitHub Actions</code> • <code>Docker</code> • <code>Linux</code> • <code>Git</code><br><br>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <br><br>
     </td>
   </tr>
 </table>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="10">
 
-
+<div align="center">
+  <p>“Automating what’s repetitive gives more room for creativity.”</p>
+</div>
