@@ -28,14 +28,56 @@ I also have experience with **CI/CD pipelines** using **GitHub Actions** to auto
 
 ## 🛠️ Tech Stack & Cloud Tools
 
-| Area | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <code>Python</code> • <code>TypeScript</code> • <code>JavaScript</code> |
-| **Frontend** | <code>React</code> |
-| **Scraping Tools** | <code>BeautifulSoup</code> • <code>Curl_Cffi</code> • <code>Rnet</code> • <code>Camoufox</code> |
-| **Backend / API** | <code>FastAPI</code> • <code>Requests</code> • <code>Pandas</code> • <code>Proxy rotation</code> |
-| **Cloud / Infra** | <code>Cloud Run Jobs</code> • <code>Cloud Storage</code> • <code>BigQuery</code> • <code>Compute Engine</code> |
-| **CI/CD & DevOps** | <code>GitHub Actions</code> • <code>Docker</code> • <code>Linux</code> • <code>Git</code> |
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top">
+      <br><strong>💻 Languages</strong><br><br>
+    </td>
+    <td width="70%" valign="top">
+      <br><code>Python</code> • <code>TypeScript</code> • <code>JavaScript</code><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <br><strong>🎨 Frontend</strong><br><br>
+    </td>
+    <td valign="top">
+      <br><code>React</code><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <br><strong>🕷️ Scraping Tools</strong><br><br>
+    </td>
+    <td valign="top">
+      <br><code>BeautifulSoup</code> • <code>Curl_Cffi</code> • <code>Rnet</code> • <code>Camoufox</code><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <br><strong>⚙️ Backend / API</strong><br><br>
+    </td>
+    <td valign="top">
+      <br><code>FastAPI</code> • <code>Requests</code> • <code>Pandas</code> • <code>Proxy rotation</code><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <br><strong>☁️ Cloud / Infra</strong><br><br>
+    </td>
+    <td valign="top">
+      <br><code>Cloud Run Jobs</code> • <code>Cloud Storage</code> • <code>BigQuery</code> • <code>Compute Engine</code><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <br><strong>🚀 CI/CD & DevOps</strong><br><br>
+    </td>
+    <td valign="top">
+      <br><code>GitHub Actions</code> • <code>Docker</code> • <code>Linux</code> • <code>Git</code><br><br>
+    </td>
+  </tr>
+</table>
 
 <br>
 
