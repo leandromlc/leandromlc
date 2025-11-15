@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Leandro Lourenço</h1>
-  <h2>Software Engineer | Automation & Cloud Infrastructure (GCP)</h2>
-  <p>Specializing in designing, building, and orchestrating large-scale automation and web scraping systems with a focus on cloud efficiency and scalability.</p>
+  <p><h3>Software Engineer | Automation & Cloud Infrastructure (GCP)</h3></p>
+  <p>Focused on building robust automation systems, web scrapers, and scalable cloud-native applications on Google Cloud Platform.</p>
   <p>
     <a href="https://www.linkedin.com/in/leandromlc">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
