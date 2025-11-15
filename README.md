@@ -36,15 +36,6 @@
 
 ---
 
-## ✨ Recent Projects
-
-- **Parallel Scraper Job** – Python crawler containerized and executed as a Cloud Run Job with parallel task distribution and proxy management  
-- **CI/CD Pipelines** – helped create automated CI/CD workflows using GitHub Actions, securely storing sensitive values in environments for enhanced security  
-- **Scraping Systems** – developed scrapers with re-tracking in Cloud Storage buckets and microservices architecture
-- **Proxy Monitor** – built a proxy monitoring tool to query proxy pools and ensure availability  
-
----
-
 ## 📊 GitHub Stats
 
 ![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=leandromlc&show_icons=true&theme=transparent&include_all_commits=true&hide=stars,issues,contribs&rank_icon=github&show=prs_merged,prs_merged_percentage)
