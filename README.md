@@ -12,6 +12,8 @@
   </p>
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="10">
 
 ## ✨ About Me
@@ -21,6 +23,8 @@
 <p>I primarily use <b>Python</b> for complex automations and <b>TypeScript/JavaScript</b> with <b>React</b> for the frontend. I have significant experience with the <b>Google Cloud Platform (GCP)</b> infrastructure, using services like Cloud Run Jobs, Cloud Storage, BigQuery, and VMs.</p>
 
 <p>I also have experience with <b>CI/CD pipelines</b> using <b>GitHub Actions</b> to automate deployments securely. Currently, I am pursuing a <b>Bachelor's degree in Computer Science</b> at Cruzeiro do Sul Virtual to continue learning.</p>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="10">
 
@@ -46,6 +50,7 @@
     <td valign="top">
       <br>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <br><br>
     </td>
   </tr>
@@ -102,9 +107,3 @@
     </td>
   </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="10">
-
-<div align="center">
-  <p>“Automating what’s repetitive gives more room for creativity.”</p>
-</div>
