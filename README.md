@@ -42,16 +42,6 @@
 
 ---
 
-## 📚 Always Learning
-
-Currently diving deeper into:
-
-- **Security in automation and scraping**
-- **Optimizing distributed systems in the cloud**
-- Advancing my **Computer Science** knowledge at **Cruzeiro do Sul Virtual**
-
----
-
 <div align="center">
   <p>“Automating what’s repetitive gives more room for creativity.”</p>
 </div>
